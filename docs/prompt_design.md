@@ -20,3 +20,6 @@ Example questions to test later:
 - "What assumptions does this model make?"
 - "What are the model's limitations?"
 - "What's the forecast for branch B999?" (should say: branch not available)
+
+
+Note: data_dictionary.md and technical_writeup.md not yet available from the team as of Day 2. Working with placeholder assumptions until Zara/Muntaha push these files.
