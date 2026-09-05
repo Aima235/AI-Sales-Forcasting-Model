@@ -93,9 +93,9 @@ if __name__ == "__main__":
 
     # Sample forecast table to test with (mimics what Iqra's model will produce)
     sample_forecast = pd.DataFrame({
-        "date": ["2026-09-06", "2026-09-07", "2026-09-08"],
-        "branch_id": ["B001", "B001", "B001"],
-        "predicted_sales": [1200.50, 1350.75, 1180.25]
+        "date": ["2025-12-25", "2025-12-26", "2025-12-27"],
+        "branch_id": ["Branch_1", "Branch_1", "Branch_1"],
+        "predicted_sales": [113259.63, 100815.19, 142128.53]
     })
 
     sample_metrics = "MAE: 45.2, RMSE: 60.1"
