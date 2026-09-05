@@ -21,5 +21,10 @@ Example questions to test later:
 - "What are the model's limitations?"
 - "What's the forecast for branch B999?" (should say: branch not available)
 
+## Reference Documents Status
 
-Note: data_dictionary.md and technical_writeup.md not yet available from the team as of Day 2. Working with placeholder assumptions until Zara/Muntaha push these files.
+Data dictionary: now available (extracted from Zara's notebook and added 
+to docs/data_dictionary.md).
+
+Technical write-up: not yet available from the team as of Day 2. 
+Working with placeholder assumptions until Muntaha pushes this file.
