@@ -94,7 +94,7 @@ if __name__ == "__main__":
     # Sample forecast table to test with (mimics what Iqra's model will produce)
     sample_forecast = pd.DataFrame({
         "date": ["2025-12-25", "2025-12-26", "2025-12-27"],
-        "branch_id": ["Branch_1", "Branch_1", "Branch_1"],
+        "branch_id": ["B001", "B001", "B001"],
         "predicted_sales": [113259.63, 100815.19, 142128.53]
     })
 
