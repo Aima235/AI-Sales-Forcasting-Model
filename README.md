@@ -1,1 +1,1 @@
-# AI-Sales-Forcasting-Model
+# AI-Sales-Forecasting-Model
